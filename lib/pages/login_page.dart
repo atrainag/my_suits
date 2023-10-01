@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_suits/pages/home_page.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -9,6 +10,13 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
+  @override
+  void initState() {
+    // ignore: unused_local_variable
+    var status = Permission.storage.request();
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

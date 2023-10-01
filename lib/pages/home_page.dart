@@ -13,12 +13,12 @@ class _HomePageState extends State<HomePage> {
   List<Photo> photos = [
     Photo(
         id: 1,
-        imagePath: "/Internal storage/DCIM/Camera/20230928_141152.jpg",
+        imagePath: "/storage/emulated/0/DCIM/Camera/20230928_141152.jpg",
         timestamp: DateTime.now()),
     Photo(
         id: 2,
         imagePath:
-            "/Internal storage/DCIM/Screenshots/Screenshot_20230912-021424_Samsung Notes.jpg",
+            "/storage/emulated/0/DCIM/Screenshots/Screenshot_20230912-021424_Samsung Notes.jpg",
         timestamp: DateTime.now()),
   ];
   @override
