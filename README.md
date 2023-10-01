@@ -1,2 +1,2 @@
 # my_suits
- An app that saves your pictures of suits
+Have you ever been laughed at because you wore the same clothes just 2 or 3 days ago? Well, never again will you have to experience that because with this app, you can actually see what clothes you wore on past days. This way, you'll know when to change and wear the correct clothes. All you need to do is use this app and take pictures of your clothes. Only images taken from this app will be displayed, so you won't need to scroll too far if you're someone who likes to take a lot of photos.
