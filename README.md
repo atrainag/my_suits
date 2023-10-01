@@ -1,5 +1,2 @@
 # my_suits
-Ever being laughed because you weared the same clothes just 2 or 3 days ago?
-Well never again have to experience that because with this app you can actually see what clothes you wear in the past days so that you will know when to change and wear the correct clothes.
-All you need is to use ths app and take picture of your clothes , only images taken from this app will show so that you don't need to scroll so far if you are a person who likes to take a lot of photo.
-
+Have you ever been laughed at because you wore the same clothes just 2 or 3 days ago? Well, never again will you have to experience that because with this app, you can actually see what clothes you wore on past days. This way, you'll know when to change and wear the correct clothes. All you need to do is use this app and take pictures of your clothes. Only images taken from this app will be displayed, so you won't need to scroll too far if you're someone who likes to take a lot of photos.
